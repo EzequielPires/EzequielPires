@@ -1,4 +1,4 @@
-## Hi, I'm Weleson. Welcome to my repository.
+## Hi, I'm Ezequiel. Welcome to my repository.
   <a href="https://github.com/EzequielPires">
   <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielPires&layout=compact&langs_count=8&theme=dracula"/>
